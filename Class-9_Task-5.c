@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main(){       
-    int alpha =68, beta = 0, gamma = 0;
+    int alpha = 68, beta = 0, gamma = 0;
     printf("%d", alpha);
     printf(" ");
     printf("%d",  beta);
