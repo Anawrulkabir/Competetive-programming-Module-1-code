@@ -4,7 +4,6 @@
 int main(){       
     int P, Q, Y, result;
     scanf("%d%d%d", &P, &Q, &Y);
-    //put your result using the values of P, Q and Y
     result = Y * 52 * ( 5 * P  + 2 * Q );
     printf("%d\n", result);
     return 0;
