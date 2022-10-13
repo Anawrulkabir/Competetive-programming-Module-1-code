@@ -25,7 +25,7 @@ Explantion: 4 has three divisors: 1, 2, and 4.
 
 Constraints:
 
-1 <= n <= 104
+1 <= n <= 10^4
 
 */
 
